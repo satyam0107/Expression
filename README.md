@@ -1,6 +1,6 @@
 ## A website for my girlfriend to memorize our love.
 
-demo：[https://satyam0107.github.io/Expression/index.html](https://satyam0107.github.io/Expression/index.html)
+demo：[https://satyam0107.github.io/Expression](https://satyam0107.github.io/Expression)
   
 * css：css      
 * js/date.js  
